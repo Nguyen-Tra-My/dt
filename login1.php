@@ -3,7 +3,7 @@
 // Thiết lập thông tin kết nối đến database 
 $servername = "database-server-lab7.c0shi1mfrpld.us-east-1.rds.amazonaws.com"; 
 $username = "admin"; 
-$password = "my12345678"; 
+$password = "29122025"; 
 $dbname = "myDB"; 
  
 // Tạo kết nối đến database 
@@ -57,4 +57,5 @@ htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
     </form> 
 </body> 
  
+
 </html>
